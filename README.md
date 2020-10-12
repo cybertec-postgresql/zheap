@@ -1,7 +1,7 @@
 <p align="center">
   <img width="500px" src="https://media.githubusercontent.com/media/cybertec-postgresql/zheap/master/img/zheap.png"/>
   <br/>
-  <i>Reinvented PostreSQL Storage</i>
+  <i>Reinvented PostgreSQL Storage</i>
 </p>
 
 <hr/>
